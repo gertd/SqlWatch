@@ -1,2 +1,2 @@
 # SqlWatch
-SQL XEvent command line monitoring utility
+SQL Server XEvent Monitoring tool
